@@ -1,3 +1,9 @@
+Para rodar o back-end via imagem docker:
+
+docker pull pedrolbbcarvalho/backend-alfood:latest
+docker run -p 8080:8080 pedrolbbcarvalho/backend-alfood
+
+
 ![Integrando seu projeto React com APIs](thumbnail.png)
 
 # Alfood
